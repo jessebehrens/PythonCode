@@ -1,0 +1,1 @@
+This program is designed to take a PDF of a SAS book where the filename is the ISB number and rename the filename to the title.  First it checks to see if there is any metadata in the PDF file strip the title from there.  If not, then it will go the SAS ebooks website, look for a match, and pull the name from there.
